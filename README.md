@@ -22,7 +22,7 @@ To demonstrate how various prompting techniques (query decomposition, decision-m
 ○	Creative Content (e.g., comic book story, short stories, video scripts)
 3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
 4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
+○	Start with simple prompts to generate initial content. 
 ○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
 5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
 ○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
